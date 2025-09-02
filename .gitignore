@@ -1,0 +1,10 @@
+**.egg-info
+**__pycache_**
+.vscode
+**models**
+
+**demo_data**
+**goal_images**
+**build**
+**classifier_**
+**_run**
